@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929631250454",
+    "project_id": "digi-wallet-99",
+    "storage_bucket": "digi-wallet-99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929631250454:android:9257ea79d119bc69e2ed37",
+        "android_client_info": {
+          "package_name": "com.example.digi_wallett"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBDK_a_ICtrjLNLLDiEHHqOrcnuW59CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
